@@ -1,0 +1,4 @@
+fonte 333333
+menu cccccc
+backgound ffffff
+detalhes  ff00cc
